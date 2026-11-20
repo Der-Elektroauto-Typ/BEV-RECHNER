@@ -1,7 +1,7 @@
 # Änderungen
 
-## v1.1.4 · 20.11.2026
+## v1.1.5 · 20.11.2026
 
-- Desktop-Feldhöhen von Texteingaben, Auswahlfeldern und deaktivierten Menüs vereinheitlicht.
-- Mobile Screenshot-Auswertung aus v1.1.3 beibehalten.
-- Versionsanzeige oben links auf 1.1.4 aktualisiert.
+- Beschriftungen und Werte im unteren Bereich des JPG-Screenshots von 15 auf 17 Pixel vergrößert.
+- A4-hochformatiges Screenshot-Layout und einheitliche Feldhöhen beibehalten.
+- Versionsanzeige oben links auf 1.1.5 aktualisiert.
