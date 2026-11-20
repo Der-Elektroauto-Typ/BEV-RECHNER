@@ -1,14 +1,16 @@
 # Änderungen
 
-## v1.0.2 · 20.11.2026
+## v1.0.3 · 20.11.2026
 
-- PRO-Infozeichen verkleinert, rund gestaltet und neben dem Modusschalter ausgerichtet.
-- Überschrift auf Desktop einzeilig gesetzt, mit Umbruch auf kleinen Displays.
-- Feldbeschriftungen über Rechner hinweg auf gemeinsame Höhe gebracht.
-- „Indiv.“-Schalter neben der Strompreis-Beschriftung fixiert.
+- „Indiv.“-Schalter auch beim Strompreis unterwegs im Streckenrechner ergänzt.
+
+- Doppelte, dezente Trennlinien zwischen den Antriebsbereichen im Hauptrechner ergänzt.
+
+## v1.0.2
+
+- PRO-Infozeichen verkleinert und neben dem Modusschalter ausgerichtet.
+- Überschrift auf Desktop einzeilig; Feldbeschriftungen und Menüs bündig ausgerichtet.
 
 ## v1.0.1
 
-- PRO-Modus mit Infohinweis, individueller Strompreis und Stau-Reichweitenanzeige.
-- Staudauer von 2 bis 7 Stunden; mobile Stau-Kacheln paarweise angeordnet.
-- Zusatzinfos einklappbar; Versionsnummer und Datum im Kopfbereich.
+- Individueller Strompreis, Stau-Reichweitenanzeige und weitere Layout-/Infoverbesserungen.
