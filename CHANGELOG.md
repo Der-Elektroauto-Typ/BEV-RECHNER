@@ -1,18 +1,14 @@
 # Änderungen
 
-## v1.0.1 · 20.11.2026
+## v1.0.2 · 20.11.2026
 
-- PRO-Modus mit Info-Symbol und Hinweis auf freie Nutzereingaben.
-- Strompreis im Hauptrechner unabhängig vom PRO-Modus individualisierbar.
-- Staudauer als Auswahl von 2 bis 7 Stunden.
-- Restreichweite vor dem Stau sowie prozentuale Abnahme während des Staus für beide Antriebsarten ergänzt.
-- Stau-Kacheln auf Smartphone paarweise Elektroauto/Verbrenner angeordnet.
-- Erläuterungen und Quellen unter „Weitere Infos“ eingeklappt.
-- Versionsnummer und Veröffentlichungsdatum im Kopfbereich.
+- PRO-Infozeichen verkleinert, rund gestaltet und neben dem Modusschalter ausgerichtet.
+- Überschrift auf Desktop einzeilig gesetzt, mit Umbruch auf kleinen Displays.
+- Feldbeschriftungen über Rechner hinweg auf gemeinsame Höhe gebracht.
+- „Indiv.“-Schalter neben der Strompreis-Beschriftung fixiert.
 
-## v1.0.0
+## v1.0.1
 
-- Erstveröffentlichung des BEV-Rechners als statische Website.
-- Kostenvergleich mit Standard- und PRO-Modus.
-- Rechner für Strecken, DC-Schnellladen, AC-Laden und Stausituationen.
-- Deutsche Zahlenformatierung, Verbrauchsprofile und Fahrzeugauswahl.
+- PRO-Modus mit Infohinweis, individueller Strompreis und Stau-Reichweitenanzeige.
+- Staudauer von 2 bis 7 Stunden; mobile Stau-Kacheln paarweise angeordnet.
+- Zusatzinfos einklappbar; Versionsnummer und Datum im Kopfbereich.
