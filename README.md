@@ -1,16 +1,13 @@
-# BEV-Rechner v1.0.4
+# BEV-Rechner v1.1.1
 
-Ein kostenloser, browserbasierter Rechner für den Kostenvergleich zwischen Elektroauto und Verbrenner mit zusätzlichen Rechnern für Strecken, DC-Schnellladen, AC-Laden und Stausituationen.
+Kostenvergleich für Elektroauto und Verbrenner mit zusätzlichen Rechnern für Strecken, DC-Schnellladen, AC-Laden und Stausituationen.
 
-## Starten
+## Neue Social-Media-Vorschau
 
-`index.html` direkt im Browser öffnen.
+- Enthält eine gestaltete Open-Graph-Vorschau als 1200 × 630 JPG sowie die bearbeitbare SVG-Quelle.
+- `index.html` enthält Open-Graph- und X/Twitter-Metadaten, die auf `og-preview.jpg` verweisen.
+- Die Vorschau zeigt beispielhaft eine mögliche Ersparnis von 2.351 € pro Jahr.
 
-## Änderungen in v1.0.4
-
-- PRO-Schalter und PRO-Modus entfernt.
-- Eigene Werte können bei Verbrauch, Wartung, THG-Prämie, Akkukapazität, DC-Ladeleistung und Strompreisen über „Indiv.“ eingegeben werden.
-- Zusatzinformationen und Erläuterungen sind in allen Rechnern über einheitliche „Weitere Infos“-Schalter erreichbar.
-- Eigene und hinterlegte Akkukapazitäten sind nutzbare Kapazitäten.
+Beim Aktualisieren von GitHub Pages müssen `index.html` und `og-preview.jpg` gemeinsam im veröffentlichten Stammverzeichnis liegen. Plattformen können Vorschaubilder zwischenspeichern; nach dem Veröffentlichen kann es nötig sein, die URL in deren Vorschau-Inspector neu einzulesen.
 
 © 2026 Der Elektroauto Typ. Alle Rechte vorbehalten.
