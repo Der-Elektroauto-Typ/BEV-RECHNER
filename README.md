@@ -1,12 +1,13 @@
-# BEV-Rechner v1.1.8
+# BEV-Rechner v1.1.9
 
 Ein browserbasierter Rechner zum Kostenvergleich zwischen Elektroauto und Verbrenner mit Zusatzrechnern für Strecke, Laden und Stau.
 
-## Änderungen in v1.1.8
+## Änderungen in v1.1.9
 
-- Eingaben für Steuer, Versicherung, Wartung, THG-Prämie und Jahr werden als Ganzzahlen formatiert: Tausenderpunkte bleiben beim Löschen stabil erhalten.
-- Dezimaleingaben wie Strompreise verwenden das Dezimalkomma ohne Tausendertrennung.
-- Verbrauchs-, DC-Leistungs- und Akkukapazitätsfelder bleiben für sinnvolle Dezimalwerte nutzbar.
-- Versionsanzeige oben links auf 1.1.8 aktualisiert.
+- SOC-Auswahl im Stau-Rechner um 33 %, 10 % und 5 % erweitert und von voll nach leer sortiert.
+- Menüwerte zeigen jetzt zuerst den SOC-Prozentwert, danach den Bruchteil des Tankinhalts.
+- Feldbeschriftung auf „Ladestand (SOC) & Tankinhalt bei Stillstand“ geändert.
+- Restkapazität und Restliter zeigen zusätzlich die Werte vor dem Stau.
+- Versionsanzeige oben links auf 1.1.9 aktualisiert.
 
 © 2026 Der Elektroauto Typ.
