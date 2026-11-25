@@ -1,6 +1,13 @@
-# BEV-Rechner v1.2.0
+# BEV-Rechner v1.2.1
 
 Ein browserbasierter Rechner zum Kostenvergleich zwischen Elektroauto und Verbrenner mit Zusatzrechnern für Strecke, Laden und Stau.
+
+## Änderungen in v1.2.1
+
+- Jährlicher Kostenvergleich und Kosten pro 100 km als vertikale Säulendiagramme mit gemeinsamer Euro-Skala und Nulllinie (Verbrenner rot, Elektroauto grün).
+- Live-Aktualisierung der Diagramme; negative Nettokosten unterhalb der Nulllinie, bei 0 km kein 100-km-Diagramm.
+- Dark-/Light-Mode-Schalter oben links; Auswahl wird lokal im Browser gespeichert. Alle Rechner, Eingaben, Infobereiche und der Footer werden umgefärbt.
+- Fahrzeug-Farbkennzeichnung und bestehender heller JPG-Export farblich angepasst; Exportlayout, Rechenlogik, Standardwerte und Fahrzeugprofile unverändert.
 
 ## Änderungen in v1.2.0
 
