@@ -1,5 +1,13 @@
 # Änderungen
 
+## v1.2.5 · 25.11.2026
+
+- Hauptrechner: 39-Cent-Tarif zzgl. 12 €/Monat (144 €/Jahr), 49-Cent-Tarif zzgl. 6 €/Monat (72 €/Jahr).
+- Fixe Tarifgebühren fließen in Jahreskosten, Kosten pro 100 km, Diagramme und Ersparnis nach 1, 3, 5 und 10 Jahren ein. Alle anderen Tarife und Indiv.-Eingaben bleiben ohne automatische Abo-Gebühr.
+- Zusatzrechner: eigene Tarifwahl mit beiden Abo-Modellen; DC-Wochenkosten inklusive Jahresgebühr ÷ 52, AC-Kosten je 100 km und Streckenkosten mit kilometeranteiliger Gebühr, Stau-Stromkosten mit energieanteiliger Gebühr auf Basis der geschätzten Jahresfahrenergie.
+- Gebührenanteile separat sichtbar; bei 0 Jahreskilometern wird eine nicht mögliche anteilige Umlage erklärt. Alle vier Weitere-Infos-Bereiche erläutern die Stromkosten. Zusatzrechner sind separate Szenarien, keine Aufschläge auf den Hauptrechner.
+- Weitere Infos und JPG-Export um die Tarifgebühr ergänzt; Versionsangabe im JPG aktualisiert.
+
 ## v1.2.4 · 25.11.2026
 
 - Fünf ausgewählte Ergebnis-Kacheln in den Zusatzrechnern optisch hervorgehoben, damit besonders wichtige Werte schneller erkennbar sind.
