@@ -1,5 +1,13 @@
 # Änderungen
 
+## v1.2.2 · 25.11.2026
+
+- JPG „Bild fürs Sparschwein“ übernimmt den aktiven Hell-/Dunkelmodus mit kontrastreichen Texten und Karten.
+- Eingabewerte im unteren Bildbereich von 20 auf 35 px vergrößert; Beschriftungen von 18 auf 25 px, jeweils in separaten Zeilen. Lange Menübeschreibungen werden durch Zahlen mit Einheiten ersetzt.
+- Jahreskosten, 100-km-Kosten und Zeiträume ebenfalls größer und separat dargestellt; Bildformat weiterhin 1400 × 1980 px.
+- JPG-Erstellung mit direkter Kodierung für native Teilen-Funktion, Download-Fallback, dauerhaft verfügbarem erneutem Downloadlink bis zur nächsten Erstellung und sichtbaren Fehlermeldungen.
+- Rechenlogik, Fahrzeugprofile, Diagramme und Standardwerte unverändert.
+
 ## v1.2.1 · 25.11.2026
 
 - Jährlicher Kostenvergleich und Kosten pro 100 km als vertikale Säulendiagramme mit gemeinsamer Euro-Skala und Nulllinie (Verbrenner rot, Elektroauto grün).
