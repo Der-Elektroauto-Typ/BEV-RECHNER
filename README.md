@@ -1,6 +1,11 @@
-# BEV-Rechner v1.2.2
+# BEV-Rechner v1.2.3
 
 Ein browserbasierter Rechner zum Kostenvergleich zwischen Elektroauto und Verbrenner mit Zusatzrechnern für Strecke, Laden und Stau.
+
+## Änderungen in v1.2.3
+
+- Reihenfolge der Zusatzrechner angepasst: DC-Schnellladen, Stau-Rechner, AC-Laden, Streckenrechner.
+- Rechenlogik, Dark-Mode, Diagramme und JPG-Export unverändert.
 
 ## Änderungen in v1.2.2
 

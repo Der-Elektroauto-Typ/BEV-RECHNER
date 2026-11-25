@@ -1,5 +1,10 @@
 # Änderungen
 
+## v1.2.3 · 25.11.2026
+
+- Reihenfolge der Zusatzrechner angepasst: DC-Schnellladen, Stau-Rechner, AC-Laden, Streckenrechner.
+- Rechenlogik, Dark-Mode, Diagramme und JPG-Export unverändert.
+
 ## v1.2.2 · 25.11.2026
 
 - JPG „Bild fürs Sparschwein“ übernimmt den aktiven Hell-/Dunkelmodus mit kontrastreichen Texten und Karten.
