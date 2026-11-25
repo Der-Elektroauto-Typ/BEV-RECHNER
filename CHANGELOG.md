@@ -1,5 +1,11 @@
 # Änderungen
 
+## v1.2.4 · 25.11.2026
+
+- Fünf ausgewählte Ergebnis-Kacheln in den Zusatzrechnern optisch hervorgehoben, damit besonders wichtige Werte schneller erkennbar sind.
+- Hervorgehoben werden: Ladezeit pro Stopp, Ladezeit pro Woche, Restreichweite Elektro, Restreichweite Verbrenner und Kilometer pro Stunde laden.
+- Light- und Dark-Mode jeweils mit eigener, leicht abgesetzter Kartenoptik umgesetzt; übrige Kacheln und Rechenlogik unverändert.
+
 ## v1.2.3 · 25.11.2026
 
 - Reihenfolge der Zusatzrechner angepasst: DC-Schnellladen, Stau-Rechner, AC-Laden, Streckenrechner.

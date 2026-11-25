@@ -1,6 +1,12 @@
-# BEV-Rechner v1.2.3
+# BEV-Rechner v1.2.4
 
 Ein browserbasierter Rechner zum Kostenvergleich zwischen Elektroauto und Verbrenner mit Zusatzrechnern für Strecke, Laden und Stau.
+
+## Änderungen in v1.2.4
+
+- Fünf ausgewählte Ergebnis-Kacheln in den Zusatzrechnern optisch hervorgehoben, damit besonders wichtige Werte schneller erkennbar sind.
+- Hervorgehoben werden: Ladezeit pro Stopp, Ladezeit pro Woche, Restreichweite Elektro, Restreichweite Verbrenner und Kilometer pro Stunde laden.
+- Light- und Dark-Mode jeweils mit eigener, leicht abgesetzter Kartenoptik umgesetzt; übrige Kacheln und Rechenlogik unverändert.
 
 ## Änderungen in v1.2.3
 
